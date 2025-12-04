@@ -1,0 +1,74 @@
+.title {
+
+    text-transform: capitalize;
+    color: darkslateblue ;
+    text-shadow: 2px 2px 2px rgb(0, 0,100 );
+    text-align: center;
+}
+
+.one {
+
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.two {
+
+    text-transform:capitalize ;
+    text-align: center;
+}
+
+.three {
+
+    text-transform: lowercase;
+    text-align: center;
+}
+
+.lorem {
+       background-color: #eee; 
+       padding: 20px; 
+       font-family: sans-serif; 
+       text-align: center; 
+       width: 450px;
+       line-height: 2;
+       margin: 40px auto;
+}
+.lorem2 {
+        background-color: #eee; 
+        padding: 20px; 
+        font-family: sans-serif; 
+        text-align: center; 
+        width: 450px;
+        line-height: 2;
+        margin: 40px auto;
+
+}    
+.lorem3 {
+        background-color: #eee; 
+        padding: 20px; 
+        font-family: sans-serif; 
+        text-align: center; 
+        width: 450px;
+        line-height: 2;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 40px auto;
+}
+
+a {
+    width: 200px;
+    height: 30px 30px auto;
+    display: block;
+    color: white;
+    margin: 20px auto;
+    padding:40px auto;
+    background: green;
+    font-size: 40px;
+    text-decoration: none;
+    text-transform: capitalize;
+    text-align: center;
+    border-bottom: 10px solid black;
+
+}
+
